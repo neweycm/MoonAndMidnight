@@ -1,0 +1,17 @@
+{
+  "name": "moonandmidnight",
+  "version": "1.0.0",
+  "description": "Carol's website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Newey",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
